@@ -1,0 +1,15 @@
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\bin\Debug\net9.0\Practica-Experimental-4.exe
+C:\Users\carlo\Documents\GitHub\Practica-Experimental-4\bin\Debug\net9.0\Practica-Experimental-4.deps.json
+C:\Users\carlo\Documents\GitHub\Practica-Experimental-4\bin\Debug\net9.0\Practica-Experimental-4.runtimeconfig.json
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\bin\Debug\net9.0\Practica-Experimental-4.dll
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\bin\Debug\net9.0\Practica-Experimental-4.pdb
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\Practica-Experimental-4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\Practica-Experimental-4.AssemblyInfoInputs.cache
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\Practica-Experimental-4.AssemblyInfo.cs
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\Practica-Experimental-4.csproj.CoreCompileInputs.cache
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\Practica-Experimental-4.sourcelink.json
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\Practica-Experimental-4.dll
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\refint\Practica-Experimental-4.dll
+c:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\Practica-Experimental-4.pdb
+C:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\Practica-Experimental-4.genruntimeconfig.cache
+C:\Users\carlo\Documents\GitHub\Practica-Experimental-4\obj\Debug\net9.0\ref\Practica-Experimental-4.dll
